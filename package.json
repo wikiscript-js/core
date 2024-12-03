@@ -52,7 +52,7 @@
     "@types/tough-cookie": "4.0.2",
     "@typescript-eslint/eslint-plugin": "5.53.0",
     "@typescript-eslint/parser": "5.53.0",
-    "dotenv": "16.0.3",
+    "dotenv": "16.4.7",
     "eslint": "8.27.0",
     "husky": "8.0.2",
     "lint-staged": "^13.1.2",
