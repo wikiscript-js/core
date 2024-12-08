@@ -278,7 +278,7 @@ __metadata:
     dotenv: 16.0.3
     eslint: 8.27.0
     fs-extra: ^10.1.0
-    husky: 8.0.2
+    husky: 9.1.7
     lint-staged: ^13.1.2
     mocha: 10.1.0
     rimraf: 3.0.2
@@ -1688,12 +1688,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"husky@npm:8.0.2":
-  version: 8.0.2
-  resolution: "husky@npm:8.0.2"
+"husky@npm:9.1.7":
+  version: 9.1.7
+  resolution: "husky@npm:9.1.7"
   bin:
-    husky: lib/bin.js
-  checksum: e101656fcb56163d610488f186448c78b132626aa427094489d886ce9374955a90274912b0f3a34af3326eaa74977883b032e5f701d7aaf4554daa5a7931be43
+    husky: bin.js
+  checksum: c2412753f15695db369634ba70f50f5c0b7e5cb13b673d0826c411ec1bd9ddef08c1dad89ea154f57da2521d2605bd64308af748749b27d08c5f563bcd89975f
   languageName: node
   linkType: hard
 
