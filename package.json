@@ -59,7 +59,7 @@
     "mocha": "10.1.0",
     "rimraf": "3.0.2",
     "ts-dotenv": "^0.9.0",
-    "tsup": "^6.6.3",
+    "tsup": "^6.7.0",
     "typescript": "^4.9.5"
   },
   "packageManager": "yarn@3.2.4",
