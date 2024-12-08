@@ -283,7 +283,7 @@ __metadata:
     mocha: 10.1.0
     rimraf: 3.0.2
     tough-cookie: ^4.1.2
-    ts-dotenv: ^0.9.0
+    ts-dotenv: ^0.9.1
     tsup: ^6.6.3
     typescript: ^4.9.5
     undici: ^5.12.0
@@ -3128,10 +3128,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ts-dotenv@npm:^0.9.0":
-  version: 0.9.0
-  resolution: "ts-dotenv@npm:0.9.0"
-  checksum: 4c1089d8416c7c6c74e526c7227387b68603436ca1ca01f175efdcef6dbbc66c71f251981c6a50fe2f4754a57e06b094e7b9c5814ad0c1a55328517db624dde6
+"ts-dotenv@npm:^0.9.1":
+  version: 0.9.1
+  resolution: "ts-dotenv@npm:0.9.1"
+  checksum: ad2cc75747a99bc358f6576bb6ee37144bb3d18da1dfde45d5490b73cc383a5c5141298353ff85e2bf69ca4680924a2d958afe36cc0b069c9e31da45c7c6cb88
   languageName: node
   linkType: hard
 
