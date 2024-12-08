@@ -38,7 +38,7 @@
   },
   "homepage": "https://github.com/quority/core#readme",
   "dependencies": {
-    "@sapphire/shapeshift": "^3.8.1",
+    "@sapphire/shapeshift": "^3.9.7",
     "fs-extra": "^10.1.0",
     "tough-cookie": "^4.1.2",
     "undici": "^5.12.0"
