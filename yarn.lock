@@ -272,7 +272,7 @@ __metadata:
     "@types/fs-extra": 9.0.13
     "@types/mocha": 10.0.0
     "@types/node": 18.14.6
-    "@types/tough-cookie": 4.0.2
+    "@types/tough-cookie": 4.0.5
     "@typescript-eslint/eslint-plugin": 5.53.0
     "@typescript-eslint/parser": 5.53.0
     dotenv: 16.0.3
@@ -360,10 +360,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/tough-cookie@npm:4.0.2":
-  version: 4.0.2
-  resolution: "@types/tough-cookie@npm:4.0.2"
-  checksum: e055556ffdaa39ad85ede0af192c93f93f986f4bd9e9426efdc2948e3e2632db3a4a584d4937dbf6d7620527419bc99e6182d3daf2b08685e710f2eda5291905
+"@types/tough-cookie@npm:4.0.5":
+  version: 4.0.5
+  resolution: "@types/tough-cookie@npm:4.0.5"
+  checksum: f19409d0190b179331586365912920d192733112a195e870c7f18d20ac8adb7ad0b0ff69dad430dba8bc2be09593453a719cfea92dc3bda19748fd158fe1498d
   languageName: node
   linkType: hard
 
