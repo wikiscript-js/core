@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "@bitomic/eslint-config": "^1.2.0",
-    "@types/form-data": "2.5.0",
+    "@types/form-data": "2.5.2",
     "@types/fs-extra": "9.0.13",
     "@types/mocha": "10.0.0",
     "@types/node": "18.14.6",

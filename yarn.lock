@@ -268,7 +268,7 @@ __metadata:
   dependencies:
     "@bitomic/eslint-config": ^1.2.0
     "@sapphire/shapeshift": ^3.8.1
-    "@types/form-data": 2.5.0
+    "@types/form-data": 2.5.2
     "@types/fs-extra": 9.0.13
     "@types/mocha": 10.0.0
     "@types/node": 18.14.6
@@ -307,12 +307,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/form-data@npm:2.5.0":
-  version: 2.5.0
-  resolution: "@types/form-data@npm:2.5.0"
+"@types/form-data@npm:2.5.2":
+  version: 2.5.2
+  resolution: "@types/form-data@npm:2.5.2"
   dependencies:
     form-data: "*"
-  checksum: c3f6c8932726970d49d67a23410d5eef0e1ad0be418163ccc3d73a4cbaa0dcd71e0e29acbe2779aab85ed8f47cb0e8f6b67028480da3b0f7d074c5a3416b2400
+  checksum: fb38ae90b671dc912152a01143d7342aac273650c0efa6c866d490913fc83d32e8b96e87bd2d6a737e2c8975cc3d63322d702f77935f68fb838c32662dc616fb
   languageName: node
   linkType: hard
 
