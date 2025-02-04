@@ -271,7 +271,7 @@ __metadata:
     "@types/form-data": 2.5.0
     "@types/fs-extra": 9.0.13
     "@types/mocha": 10.0.0
-    "@types/node": 18.14.6
+    "@types/node": 22.13.1
     "@types/tough-cookie": 4.0.2
     "@typescript-eslint/eslint-plugin": 5.53.0
     "@typescript-eslint/parser": 5.53.0
@@ -346,10 +346,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:18.14.6":
-  version: 18.14.6
-  resolution: "@types/node@npm:18.14.6"
-  checksum: 2f88f482cabadc6dbddd627a1674239e68c3c9beab56eb4ae2309fb96fd17fc3a509d99b0309bafe13b58529574f49ecf3a583f2ebe2896dd32fe4be436dc96e
+"@types/node@npm:22.13.1":
+  version: 22.13.1
+  resolution: "@types/node@npm:22.13.1"
+  dependencies:
+    undici-types: ~6.20.0
+  checksum: a0759e4bedc3fe892c3ddef5fa9cb5251f9c5b24defc1a389438ea3b5b727c481c1a9bc94bae4ecc7426c89ad293cd66633d163da1ab14d74d358cbec9e1ce31
   languageName: node
   linkType: hard
 
@@ -3243,6 +3245,13 @@ __metadata:
     tsc: bin/tsc
     tsserver: bin/tsserver
   checksum: 2eee5c37cad4390385db5db5a8e81470e42e8f1401b0358d7390095d6f681b410f2c4a0c496c6ff9ebd775423c7785cdace7bcdad76c7bee283df3d9718c0f20
+  languageName: node
+  linkType: hard
+
+"undici-types@npm:~6.20.0":
+  version: 6.20.0
+  resolution: "undici-types@npm:6.20.0"
+  checksum: b7bc50f012dc6afbcce56c9fd62d7e86b20a62ff21f12b7b5cbf1973b9578d90f22a9c7fe50e638e96905d33893bf2f9f16d98929c4673c2480de05c6c96ea8b
   languageName: node
   linkType: hard
 
